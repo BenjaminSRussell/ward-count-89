@@ -548,3 +548,6 @@
 {"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east curb. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":549,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at High line. Nobody past the east curb. We hit in 4 steps. Arc on the left lane, open."}
 {"n":550,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line east curb. Matt keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":551,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east curb. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":552,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at High line. Nobody past the east curb. We hit in 7 steps. Arc on the left lane, open."}
+{"n":553,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line east curb. Nia keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
