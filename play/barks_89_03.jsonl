@@ -166,3 +166,6 @@
 {"n":166,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line north escape. Matt keeps the plywood for the win. 5 steps, arc on the left lane, open."}
 {"n":167,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north escape. arc left open. 6 steps. The plywood stays for the win."}
 {"n":168,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at High line. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":169,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line north escape. Nia keeps the plywood for the win. 8 steps, arc on the left lane, open."}
+{"n":170,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. arc left open. 2 steps. The plywood stays for the win."}
+{"n":171,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at High line. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
