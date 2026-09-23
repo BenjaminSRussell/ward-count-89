@@ -810,3 +810,6 @@
 {"n":810,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Clinic roof. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":811,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the lamp for the win. 6 steps, arc on the left lane, open."}
 {"n":812,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The lamp stays for the win."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Switchyard. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":814,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard north escape. Matt keeps the lamp for the win. 2 steps, arc on the left lane, open."}
+{"n":815,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north escape. arc left open. 3 steps. The lamp stays for the win."}
