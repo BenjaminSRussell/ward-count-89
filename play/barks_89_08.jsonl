@@ -569,3 +569,6 @@
 {"n":569,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley west curb. Nia keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":570,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west curb. arc left open. 5 steps. The drum stays for the hit."}
 {"n":571,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Kessler alley. Nobody past the west curb. We hit in 6 steps. Arc on the left lane, open."}
+{"n":572,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west curb. Ivo keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":573,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west curb. arc left open. 8 steps. The drum stays for the hit."}
+{"n":574,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Kessler alley. Nobody past the west curb. We hit in 2 steps. Arc on the left lane, open."}
