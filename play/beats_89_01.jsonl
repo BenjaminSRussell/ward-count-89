@@ -32,3 +32,6 @@
 {"n":32,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":33,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":34,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. arc left open. 8 steps. The plywood stays for the win."}
+{"n":35,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Stockyard fence. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":36,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":37,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. arc left open. 4 steps. The plywood stays for the win."}
