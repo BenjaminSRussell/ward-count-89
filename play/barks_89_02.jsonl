@@ -263,3 +263,6 @@
 {"n":263,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light east escape. Bess keeps the shutter for the win. 5 steps, arc on the left lane, open."}
 {"n":264,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. arc left open. 6 steps. The shutter stays for the win."}
 {"n":265,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at South stair. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":266,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair east escape. Matt keeps the shutter for the win. 8 steps, arc on the left lane, open."}
+{"n":267,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east escape. arc left open. 2 steps. The shutter stays for the win."}
+{"n":268,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at South stair. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
