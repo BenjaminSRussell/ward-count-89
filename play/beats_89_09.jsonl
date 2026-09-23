@@ -390,3 +390,6 @@
 {"n":390,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at High line. Nobody past the east curb. We hit in 6 steps. Arc on the left lane, open."}
 {"n":391,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east curb. Bess keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
 {"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east curb. arc left open. 8 steps. The hydrant stays for the hit."}
+{"n":393,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Ward gate. Nobody past the east curb. We hit in 2 steps. Arc on the left lane, open."}
+{"n":394,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east curb. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":395,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east curb. arc left open. 4 steps. The barrel stays for the hit."}
