@@ -25,3 +25,6 @@
 {"n":25,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the plywood for the win. 4 steps, arc on the left lane, open."}
 {"n":26,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north escape. arc left open. 5 steps. The plywood stays for the win."}
 {"n":27,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Kessler alley. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":28,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":29,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. arc left open. 8 steps. The plywood stays for the win."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Kessler alley. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
