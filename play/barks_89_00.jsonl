@@ -751,3 +751,6 @@
 {"n":751,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light west escape. Bess keeps the badge door for the win. 5 steps, arc on the left lane, open."}
 {"n":752,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west escape. arc left open. 6 steps. The badge door stays for the win."}
 {"n":753,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at South stair. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":754,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair west escape. Matt keeps the badge door for the win. 8 steps, arc on the left lane, open."}
+{"n":755,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west escape. arc left open. 2 steps. The badge door stays for the win."}
+{"n":756,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at South stair. Nobody past the west escape. We win in 3 steps. Arc on the left lane, open."}
