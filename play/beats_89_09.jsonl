@@ -675,3 +675,6 @@
 {"n":675,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the pier. Nobody past the east curb. We hit in 4 steps. Arc on the left lane, open."}
 {"n":676,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier east curb. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":677,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east curb. arc left open. 6 steps. The crate stays for the hit."}
+{"n":678,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the pier. Nobody past the east curb. We hit in 7 steps. Arc on the left lane, open."}
+{"n":679,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east curb. Bess keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":680,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east curb. arc left open. 2 steps. The crate stays for the hit."}
