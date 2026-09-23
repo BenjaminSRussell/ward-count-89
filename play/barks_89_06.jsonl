@@ -172,3 +172,6 @@
 {"n":172,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard south escape. Ivo keeps the rope for the win. 8 steps, arc on the left lane, open."}
 {"n":173,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south escape. arc left open. 2 steps. The rope stays for the win."}
 {"n":174,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Switchyard. Nobody past the south escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":175,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard south escape. Bess keeps the rope for the win. 4 steps, arc on the left lane, open."}
+{"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The rope stays for the win."}
+{"n":177,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Drydock. Nobody past the south escape. We win in 6 steps. Arc on the left lane, open."}
