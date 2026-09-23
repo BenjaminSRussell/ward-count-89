@@ -408,3 +408,6 @@
 {"n":408,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at the Underpass. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":409,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass north escape. Nia keeps the barrel for the win. 3 steps, arc on the left lane, open."}
 {"n":410,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. arc left open. 4 steps. The barrel stays for the win."}
+{"n":411,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at the Underpass. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":412,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the barrel for the win. 6 steps, arc on the left lane, open."}
+{"n":413,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north escape. arc left open. 7 steps. The barrel stays for the win."}
