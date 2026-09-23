@@ -287,3 +287,6 @@
 {"n":287,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north escape. arc left open. 7 steps. The hydrant stays for the win."}
 {"n":288,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at the pier. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":289,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier north escape. Nia keeps the hydrant for the win. 2 steps, arc on the left lane, open."}
+{"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north escape. arc left open. 3 steps. The hydrant stays for the win."}
+{"n":291,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at the pier. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":292,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier north escape. Ivo keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
