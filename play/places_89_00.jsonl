@@ -662,3 +662,6 @@
 {"n":662,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west escape. arc left open. 7 steps. The badge door stays for the win."}
 {"n":663,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Ward gate. Nobody past the west escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":664,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate west escape. Ivo keeps the badge door for the win. 2 steps, arc on the left lane, open."}
+{"n":665,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west escape. arc left open. 3 steps. The badge door stays for the win."}
+{"n":666,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Ward gate. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":667,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate west escape. Bess keeps the badge door for the win. 5 steps, arc on the left lane, open."}
