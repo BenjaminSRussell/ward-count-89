@@ -31,3 +31,6 @@
 {"n":31,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence west escape. Bess keeps the rope for the win. 6 steps, arc on the left lane, open."}
 {"n":32,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west escape. arc left open. 7 steps. The rope stays for the win."}
 {"n":33,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Mall court. Nobody past the west escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":34,"kind":"place","name":"Mall court west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court west escape. Matt keeps the rope for the win. 2 steps, arc on the left lane, open."}
+{"n":35,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west escape. arc left open. 3 steps. The rope stays for the win."}
+{"n":36,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at Mall court. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
