@@ -921,3 +921,6 @@
 {"n":921,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at South stair. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":922,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair west escape. Matt keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
 {"n":923,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west escape. arc left open. 2 steps. The radio coil stays for the win."}
+{"n":924,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at South stair. Nobody past the west escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":925,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair west escape. Nia keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
+{"n":926,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west escape. arc left open. 5 steps. The radio coil stays for the win."}
