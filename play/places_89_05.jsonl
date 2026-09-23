@@ -555,3 +555,6 @@
 {"n":555,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. arc left open. 7 steps. The crate stays for the win."}
 {"n":556,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Lot. Nobody past the south escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":557,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot south escape. Nia keeps the crate for the win. 2 steps, arc on the left lane, open."}
+{"n":558,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south escape. arc left open. 3 steps. The crate stays for the win."}
+{"n":559,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Lot. Nobody past the south escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":560,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the crate for the win. 5 steps, arc on the left lane, open."}
