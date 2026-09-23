@@ -13,3 +13,6 @@
 {"n":13,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Switchyard. Nobody past the west curb. We hit in 8 steps. Arc on the left lane, open."}
 {"n":14,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard west curb. Matt keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
 {"n":15,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west curb. arc left open. 3 steps. The rebar stays for the hit."}
+{"n":16,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Switchyard. Nobody past the west curb. We hit in 4 steps. Arc on the left lane, open."}
+{"n":17,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard west curb. Nia keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
+{"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west curb. arc left open. 6 steps. The rebar stays for the hit."}
