@@ -638,3 +638,6 @@
 {"n":638,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier south escape. Matt keeps the crate for the win. 6 steps, arc on the left lane, open."}
 {"n":639,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south escape. arc left open. 7 steps. The crate stays for the win."}
 {"n":640,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the pier. Nobody past the south escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":641,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier south escape. Nia keeps the crate for the win. 2 steps, arc on the left lane, open."}
+{"n":642,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south escape. arc left open. 3 steps. The crate stays for the win."}
+{"n":643,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the pier. Nobody past the south escape. We win in 4 steps. Arc on the left lane, open."}
