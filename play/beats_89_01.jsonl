@@ -191,3 +191,6 @@
 {"n":191,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at the Lot. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":192,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot east escape. Ivo keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
 {"n":193,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east escape. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":194,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at the Lot. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":195,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot east escape. Bess keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
+{"n":196,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east escape. arc left open. 2 steps. The hydrant stays for the win."}
