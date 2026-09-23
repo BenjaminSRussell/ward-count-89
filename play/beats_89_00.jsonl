@@ -582,3 +582,6 @@
 {"n":582,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Last Light. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":583,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light west escape. Bess keeps the drum for the win. 5 steps, arc on the left lane, open."}
 {"n":584,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west escape. arc left open. 6 steps. The drum stays for the win."}
+{"n":585,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at South stair. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":586,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair west escape. Matt keeps the drum for the win. 8 steps, arc on the left lane, open."}
+{"n":587,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west escape. arc left open. 2 steps. The drum stays for the win."}
