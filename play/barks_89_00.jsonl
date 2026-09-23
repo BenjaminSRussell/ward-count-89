@@ -700,3 +700,6 @@
 {"n":700,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence west escape. Ivo keeps the badge door for the win. 3 steps, arc on the left lane, open."}
 {"n":701,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west escape. arc left open. 4 steps. The badge door stays for the win."}
 {"n":702,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the west escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":703,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence west escape. Bess keeps the badge door for the win. 6 steps, arc on the left lane, open."}
+{"n":704,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west escape. arc left open. 7 steps. The badge door stays for the win."}
+{"n":705,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at Mall court. Nobody past the west escape. We win in 8 steps. Arc on the left lane, open."}
