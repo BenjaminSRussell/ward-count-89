@@ -318,3 +318,6 @@
 {"n":318,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at High line. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":319,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west escape. Bess keeps the shutter for the win. 7 steps, arc on the left lane, open."}
 {"n":320,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The shutter stays for the win."}
+{"n":321,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Ward gate. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":322,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west escape. Matt keeps the awning for the win. 3 steps, arc on the left lane, open."}
+{"n":323,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west escape. arc left open. 4 steps. The awning stays for the win."}
