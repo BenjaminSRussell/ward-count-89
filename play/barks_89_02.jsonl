@@ -644,3 +644,6 @@
 {"n":644,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard east escape. Ivo keeps the drum for the win. 8 steps, arc on the left lane, open."}
 {"n":645,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east escape. arc left open. 2 steps. The drum stays for the win."}
 {"n":646,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Switchyard. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":647,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard east escape. Bess keeps the drum for the win. 4 steps, arc on the left lane, open."}
+{"n":648,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east escape. arc left open. 5 steps. The drum stays for the win."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Drydock. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
