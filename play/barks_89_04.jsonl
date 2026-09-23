@@ -336,3 +336,6 @@
 {"n":336,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the shutter for the win. 6 steps, arc on the left lane, open."}
 {"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north escape. arc left open. 7 steps. The shutter stays for the win."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Drydock. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":339,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north escape. Bess keeps the shutter for the win. 2 steps, arc on the left lane, open."}
+{"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north escape. arc left open. 3 steps. The shutter stays for the win."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at High line. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
