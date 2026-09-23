@@ -780,3 +780,6 @@
 {"n":780,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light north escape. Ivo keeps the badge door for the win. 2 steps, arc on the left lane, open."}
 {"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north escape. arc left open. 3 steps. The badge door stays for the win."}
 {"n":782,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Last Light. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":783,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light north escape. Bess keeps the badge door for the win. 5 steps, arc on the left lane, open."}
+{"n":784,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north escape. arc left open. 6 steps. The badge door stays for the win."}
+{"n":785,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at South stair. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
