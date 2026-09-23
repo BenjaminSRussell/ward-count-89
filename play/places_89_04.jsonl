@@ -937,3 +937,6 @@
 {"n":937,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":938,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Mast yard. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":939,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north escape. Bess keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":940,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north escape. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Last Light. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":942,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north escape. Matt keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
