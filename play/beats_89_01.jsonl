@@ -416,3 +416,6 @@
 {"n":416,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at Last Light. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":417,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light east escape. Nia keeps the barrel for the win. 6 steps, arc on the left lane, open."}
 {"n":418,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. arc left open. 7 steps. The barrel stays for the win."}
+{"n":419,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Last Light. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":420,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the barrel for the win. 2 steps, arc on the left lane, open."}
+{"n":421,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The barrel stays for the win."}
