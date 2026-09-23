@@ -815,3 +815,6 @@
 {"n":815,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Clinic roof. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":816,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the badge door for the win. 3 steps, arc on the left lane, open."}
 {"n":817,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The badge door stays for the win."}
+{"n":818,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Clinic roof. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":819,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the badge door for the win. 6 steps, arc on the left lane, open."}
+{"n":820,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The badge door stays for the win."}
