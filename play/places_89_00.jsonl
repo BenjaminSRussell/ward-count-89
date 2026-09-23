@@ -548,3 +548,6 @@
 {"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west escape. arc left open. 5 steps. The drum stays for the win."}
 {"n":549,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at the Underpass. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":550,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west escape. Matt keeps the drum for the win. 7 steps, arc on the left lane, open."}
+{"n":551,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west escape. arc left open. 8 steps. The drum stays for the win."}
+{"n":552,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at the Underpass. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":553,"kind":"place","name":"the Underpass west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west escape. Nia keeps the drum for the win. 3 steps, arc on the left lane, open."}
