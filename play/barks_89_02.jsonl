@@ -326,3 +326,6 @@
 {"n":326,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line east escape. Matt keeps the shutter for the win. 5 steps, arc on the left lane, open."}
 {"n":327,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east escape. arc left open. 6 steps. The shutter stays for the win."}
 {"n":328,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at High line. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":329,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line east escape. Nia keeps the shutter for the win. 8 steps, arc on the left lane, open."}
+{"n":330,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east escape. arc left open. 2 steps. The shutter stays for the win."}
+{"n":331,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at High line. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
