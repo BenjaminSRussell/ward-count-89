@@ -158,3 +158,6 @@
 {"n":158,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at High line. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":159,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east escape. Bess keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east escape. arc left open. 8 steps. The plywood stays for the win."}
+{"n":161,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Ward gate. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":162,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east escape. Matt keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east escape. arc left open. 4 steps. The hydrant stays for the win."}
