@@ -898,3 +898,6 @@
 {"n":898,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The radio coil stays for the win."}
 {"n":899,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Stockyard fence. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":900,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
+{"n":901,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. arc left open. 4 steps. The radio coil stays for the win."}
+{"n":902,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":903,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence north escape. Bess keeps the radio coil for the win. 6 steps, arc on the left lane, open."}
