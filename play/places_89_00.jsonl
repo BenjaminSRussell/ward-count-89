@@ -434,3 +434,6 @@
 {"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west escape. arc left open. 3 steps. The awning stays for the win."}
 {"n":435,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at the pier. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":436,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier west escape. Ivo keeps the awning for the win. 5 steps, arc on the left lane, open."}
+{"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west escape. arc left open. 6 steps. The awning stays for the win."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at the pier. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":439,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west escape. Bess keeps the awning for the win. 8 steps, arc on the left lane, open."}
