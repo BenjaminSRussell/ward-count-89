@@ -625,3 +625,6 @@
 {"n":625,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light south escape. Nia keeps the drum for the win. 6 steps, arc on the left lane, open."}
 {"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south escape. arc left open. 7 steps. The drum stays for the win."}
 {"n":627,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Last Light. Nobody past the south escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":628,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light south escape. Ivo keeps the drum for the win. 2 steps, arc on the left lane, open."}
+{"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south escape. arc left open. 3 steps. The drum stays for the win."}
+{"n":630,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Last Light. Nobody past the south escape. We win in 4 steps. Arc on the left lane, open."}
