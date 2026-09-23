@@ -429,3 +429,6 @@
 {"n":429,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The awning stays for the win."}
 {"n":430,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Last Light. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":431,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light east escape. Bess keeps the awning for the win. 5 steps, arc on the left lane, open."}
+{"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. arc left open. 6 steps. The awning stays for the win."}
+{"n":433,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at South stair. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":434,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair east escape. Matt keeps the awning for the win. 8 steps, arc on the left lane, open."}
