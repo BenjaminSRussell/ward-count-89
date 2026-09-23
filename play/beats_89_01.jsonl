@@ -26,3 +26,6 @@
 {"n":26,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at the Lot. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":27,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east escape. Bess keeps the plywood for the win. 8 steps, arc on the left lane, open."}
 {"n":28,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east escape. arc left open. 2 steps. The plywood stays for the win."}
+{"n":29,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":30,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence east escape. Matt keeps the plywood for the win. 4 steps, arc on the left lane, open."}
+{"n":31,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east escape. arc left open. 5 steps. The plywood stays for the win."}
