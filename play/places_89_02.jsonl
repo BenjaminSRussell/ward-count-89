@@ -552,3 +552,6 @@
 {"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east escape. arc left open. 7 steps. The drum stays for the win."}
 {"n":553,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Mall court. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":554,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court east escape. Matt keeps the drum for the win. 2 steps, arc on the left lane, open."}
+{"n":555,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east escape. arc left open. 3 steps. The drum stays for the win."}
+{"n":556,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at Mall court. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":557,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court east escape. Nia keeps the drum for the win. 5 steps, arc on the left lane, open."}
