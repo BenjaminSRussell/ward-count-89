@@ -371,3 +371,6 @@
 {"n":371,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Kessler alley. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":372,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the awning for the win. 7 steps, arc on the left lane, open."}
 {"n":373,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. arc left open. 8 steps. The awning stays for the win."}
+{"n":374,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Kessler alley. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":375,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the awning for the win. 3 steps, arc on the left lane, open."}
+{"n":376,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. arc left open. 4 steps. The awning stays for the win."}
