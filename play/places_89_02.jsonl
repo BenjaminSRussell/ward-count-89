@@ -360,3 +360,6 @@
 {"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. arc left open. 4 steps. The awning stays for the win."}
 {"n":361,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at the Lot. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":362,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot east escape. Matt keeps the awning for the win. 6 steps, arc on the left lane, open."}
+{"n":363,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. arc left open. 7 steps. The awning stays for the win."}
+{"n":364,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the awning at the Lot. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":365,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot east escape. Nia keeps the awning for the win. 2 steps, arc on the left lane, open."}
