@@ -217,3 +217,6 @@
 {"n":217,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line east curb. Nia keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
 {"n":218,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east curb. arc left open. 2 steps. The plywood stays for the hit."}
 {"n":219,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at High line. Nobody past the east curb. We hit in 3 steps. Arc on the left lane, open."}
+{"n":220,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east curb. Ivo keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
+{"n":221,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east curb. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":222,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at High line. Nobody past the east curb. We hit in 6 steps. Arc on the left lane, open."}
