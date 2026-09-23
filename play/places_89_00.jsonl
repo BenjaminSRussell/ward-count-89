@@ -968,3 +968,6 @@
 {"n":968,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":969,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Drydock. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":970,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock west escape. Matt keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":971,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west escape. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":972,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Drydock. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":973,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west escape. Nia keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
