@@ -373,3 +373,6 @@
 {"n":373,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock east curb. Nia keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
 {"n":374,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east curb. arc left open. 4 steps. The hydrant stays for the hit."}
 {"n":375,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Drydock. Nobody past the east curb. We hit in 5 steps. Arc on the left lane, open."}
+{"n":376,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock east curb. Ivo keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
+{"n":377,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east curb. arc left open. 7 steps. The hydrant stays for the hit."}
+{"n":378,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Drydock. Nobody past the east curb. We hit in 8 steps. Arc on the left lane, open."}
