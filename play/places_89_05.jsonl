@@ -654,3 +654,6 @@
 {"n":654,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south escape. arc left open. 8 steps. The crate stays for the win."}
 {"n":655,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Clinic roof. Nobody past the south escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":656,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof south escape. Ivo keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":657,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south escape. arc left open. 4 steps. The crate stays for the win."}
+{"n":658,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Clinic roof. Nobody past the south escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":659,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof south escape. Bess keeps the crate for the win. 6 steps, arc on the left lane, open."}
