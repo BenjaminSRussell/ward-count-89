@@ -812,3 +812,6 @@
 {"n":812,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier south escape. Ivo keeps the lamp for the win. 5 steps, arc on the left lane, open."}
 {"n":813,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. arc left open. 6 steps. The lamp stays for the win."}
 {"n":814,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at the pier. Nobody past the south escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":815,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south escape. Bess keeps the lamp for the win. 8 steps, arc on the left lane, open."}
+{"n":816,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. arc left open. 2 steps. The lamp stays for the win."}
+{"n":817,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Clinic roof. Nobody past the south escape. We win in 3 steps. Arc on the left lane, open."}
