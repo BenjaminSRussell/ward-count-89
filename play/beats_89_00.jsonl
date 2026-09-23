@@ -60,3 +60,6 @@
 {"n":60,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at Mast yard. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":61,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard west escape. Nia keeps the rope for the win. 8 steps, arc on the left lane, open."}
 {"n":62,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west escape. arc left open. 2 steps. The rope stays for the win."}
+{"n":63,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Mast yard. Nobody past the west escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":64,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard west escape. Ivo keeps the rope for the win. 4 steps, arc on the left lane, open."}
+{"n":65,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west escape. arc left open. 5 steps. The rope stays for the win."}
