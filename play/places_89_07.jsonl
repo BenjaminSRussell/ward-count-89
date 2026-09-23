@@ -814,3 +814,6 @@
 {"n":814,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west curb. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":815,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at South stair. Nobody past the west curb. We hit in 6 steps. Arc on the left lane, open."}
 {"n":816,"kind":"place","name":"South stair west curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair west curb. Ivo keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":817,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west curb. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":818,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at South stair. Nobody past the west curb. We hit in 2 steps. Arc on the left lane, open."}
+{"n":819,"kind":"place","name":"South stair west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair west curb. Bess keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
