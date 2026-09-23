@@ -41,3 +41,6 @@
 {"n":41,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at the Lot. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":42,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot north escape. Matt keeps the rope for the win. 6 steps, arc on the left lane, open."}
 {"n":43,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north escape. arc left open. 7 steps. The rope stays for the win."}
+{"n":44,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at the Lot. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":45,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot north escape. Nia keeps the rope for the win. 2 steps, arc on the left lane, open."}
+{"n":46,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north escape. arc left open. 3 steps. The rope stays for the win."}
