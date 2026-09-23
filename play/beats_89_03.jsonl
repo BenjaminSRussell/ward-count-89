@@ -318,3 +318,6 @@
 {"n":318,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Switchyard. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":319,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north escape. Bess keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
 {"n":320,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. arc left open. 5 steps. The hydrant stays for the win."}
+{"n":321,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Drydock. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":322,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north escape. Matt keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
+{"n":323,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The hydrant stays for the win."}
