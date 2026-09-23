@@ -712,3 +712,6 @@
 {"n":712,"kind":"place","name":"Mall court west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court west escape. Ivo keeps the badge door for the win. 8 steps, arc on the left lane, open."}
 {"n":713,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west escape. arc left open. 2 steps. The badge door stays for the win."}
 {"n":714,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Mall court. Nobody past the west escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":715,"kind":"place","name":"Mall court west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court west escape. Bess keeps the badge door for the win. 4 steps, arc on the left lane, open."}
+{"n":716,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west escape. arc left open. 5 steps. The badge door stays for the win."}
+{"n":717,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at the Underpass. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
