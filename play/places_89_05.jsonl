@@ -963,3 +963,6 @@
 {"n":963,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south escape. arc left open. 2 steps. The rebar stays for the win."}
 {"n":964,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at South stair. Nobody past the south escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":965,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair south escape. Nia keeps the rebar for the win. 4 steps, arc on the left lane, open."}
+{"n":966,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south escape. arc left open. 5 steps. The rebar stays for the win."}
+{"n":967,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at South stair. Nobody past the south escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":968,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south escape. Ivo keeps the rebar for the win. 7 steps, arc on the left lane, open."}
