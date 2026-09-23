@@ -927,3 +927,6 @@
 {"n":927,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Mast yard. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":928,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north escape. Ivo keeps the rebar for the win. 4 steps, arc on the left lane, open."}
 {"n":929,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. arc left open. 5 steps. The rebar stays for the win."}
+{"n":930,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Mast yard. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":931,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north escape. Bess keeps the rebar for the win. 7 steps, arc on the left lane, open."}
+{"n":932,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north escape. arc left open. 8 steps. The rebar stays for the win."}
