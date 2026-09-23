@@ -602,3 +602,6 @@
 {"n":602,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard south escape. Matt keeps the crate for the win. 5 steps, arc on the left lane, open."}
 {"n":603,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south escape. arc left open. 6 steps. The crate stays for the win."}
 {"n":604,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Mast yard. Nobody past the south escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":605,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard south escape. Nia keeps the crate for the win. 8 steps, arc on the left lane, open."}
+{"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south escape. arc left open. 2 steps. The crate stays for the win."}
+{"n":607,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Mast yard. Nobody past the south escape. We win in 3 steps. Arc on the left lane, open."}
