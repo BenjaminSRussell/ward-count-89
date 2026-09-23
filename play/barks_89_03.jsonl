@@ -574,3 +574,6 @@
 {"n":574,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north escape. Matt keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":575,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north escape. arc left open. 8 steps. The crate stays for the win."}
 {"n":576,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Underpass. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":577,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north escape. Nia keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. arc left open. 4 steps. The crate stays for the win."}
+{"n":579,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Underpass. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
