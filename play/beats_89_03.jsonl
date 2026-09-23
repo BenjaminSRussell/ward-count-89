@@ -336,3 +336,6 @@
 {"n":336,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at High line. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":337,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line north escape. Nia keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
 {"n":338,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. arc left open. 2 steps. The hydrant stays for the win."}
+{"n":339,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at High line. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":340,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line north escape. Ivo keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
+{"n":341,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. arc left open. 5 steps. The hydrant stays for the win."}
