@@ -130,3 +130,6 @@
 {"n":130,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Clinic roof. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":131,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof east escape. Bess keeps the rope for the win. 6 steps, arc on the left lane, open."}
 {"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east escape. arc left open. 7 steps. The rope stays for the win."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Switchyard. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":134,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east escape. Matt keeps the rope for the win. 2 steps, arc on the left lane, open."}
+{"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east escape. arc left open. 3 steps. The rope stays for the win."}
