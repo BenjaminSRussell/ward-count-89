@@ -876,3 +876,6 @@
 {"n":876,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at the Lot. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":877,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot north escape. Nia keeps the rebar for the win. 2 steps, arc on the left lane, open."}
 {"n":878,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north escape. arc left open. 3 steps. The rebar stays for the win."}
+{"n":879,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at the Lot. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":880,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the rebar for the win. 5 steps, arc on the left lane, open."}
+{"n":881,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. arc left open. 6 steps. The rebar stays for the win."}
