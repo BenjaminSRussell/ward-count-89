@@ -710,3 +710,6 @@
 {"n":710,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north escape. arc left open. 3 steps. The lamp stays for the win."}
 {"n":711,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at the Lot. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":712,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the lamp for the win. 5 steps, arc on the left lane, open."}
+{"n":713,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. arc left open. 6 steps. The lamp stays for the win."}
+{"n":714,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at the Lot. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":715,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north escape. Bess keeps the lamp for the win. 8 steps, arc on the left lane, open."}
