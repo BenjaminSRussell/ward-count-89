@@ -750,3 +750,6 @@
 {"n":750,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east escape. arc left open. 2 steps. The badge door stays for the win."}
 {"n":751,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Mast yard. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":752,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the badge door for the win. 4 steps, arc on the left lane, open."}
+{"n":753,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. arc left open. 5 steps. The badge door stays for the win."}
+{"n":754,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Mast yard. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":755,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard east escape. Bess keeps the badge door for the win. 7 steps, arc on the left lane, open."}
