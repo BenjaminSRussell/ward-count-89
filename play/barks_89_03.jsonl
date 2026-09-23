@@ -376,3 +376,6 @@
 {"n":376,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the barrel for the win. 5 steps, arc on the left lane, open."}
 {"n":377,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. arc left open. 6 steps. The barrel stays for the win."}
 {"n":378,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at the Lot. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":379,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north escape. Bess keeps the barrel for the win. 8 steps, arc on the left lane, open."}
+{"n":380,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north escape. arc left open. 2 steps. The barrel stays for the win."}
+{"n":381,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
