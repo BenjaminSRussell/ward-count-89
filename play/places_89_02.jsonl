@@ -855,3 +855,6 @@
 {"n":855,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east escape. arc left open. 2 steps. The radio coil stays for the win."}
 {"n":856,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":857,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east escape. Nia keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
+{"n":858,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east escape. arc left open. 5 steps. The radio coil stays for the win."}
+{"n":859,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Kessler alley. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":860,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
