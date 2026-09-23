@@ -348,3 +348,6 @@
 {"n":348,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the barrel for the win. 7 steps, arc on the left lane, open."}
 {"n":349,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east escape. arc left open. 8 steps. The barrel stays for the win."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Kessler alley. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":351,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the barrel for the win. 3 steps, arc on the left lane, open."}
+{"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. arc left open. 4 steps. The barrel stays for the win."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at the Lot. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
