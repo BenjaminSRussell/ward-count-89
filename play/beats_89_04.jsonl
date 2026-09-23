@@ -992,3 +992,6 @@
 {"n":992,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Switchyard. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":993,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard north escape. Nia keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
 {"n":994,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north escape. arc left open. 6 steps. The radio coil stays for the win."}
+{"n":995,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Switchyard. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":996,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north escape. Ivo keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":997,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north escape. arc left open. 2 steps. The radio coil stays for the win."}
