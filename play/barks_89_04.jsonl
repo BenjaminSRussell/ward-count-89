@@ -516,3 +516,6 @@
 {"n":516,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north escape. Ivo keeps the awning for the win. 4 steps, arc on the left lane, open."}
 {"n":517,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. arc left open. 5 steps. The awning stays for the win."}
 {"n":518,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at High line. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":519,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north escape. Bess keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":520,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. arc left open. 8 steps. The awning stays for the win."}
+{"n":521,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Ward gate. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
