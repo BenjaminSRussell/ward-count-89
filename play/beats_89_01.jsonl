@@ -899,3 +899,6 @@
 {"n":899,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at the Underpass. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":900,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east escape. Ivo keeps the rebar for the win. 6 steps, arc on the left lane, open."}
 {"n":901,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east escape. arc left open. 7 steps. The rebar stays for the win."}
+{"n":902,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at the Underpass. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":903,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass east escape. Bess keeps the rebar for the win. 2 steps, arc on the left lane, open."}
+{"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east escape. arc left open. 3 steps. The rebar stays for the win."}
