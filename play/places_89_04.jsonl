@@ -163,3 +163,6 @@
 {"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The rope stays for the win."}
 {"n":164,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at Drydock. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":165,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north escape. Nia keeps the rope for the win. 3 steps, arc on the left lane, open."}
+{"n":166,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north escape. arc left open. 4 steps. The rope stays for the win."}
+{"n":167,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Drydock. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":168,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the rope for the win. 6 steps, arc on the left lane, open."}
