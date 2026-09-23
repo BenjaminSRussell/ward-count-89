@@ -94,3 +94,6 @@
 {"n":94,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier west escape. Matt keeps the rope for the win. 6 steps, arc on the left lane, open."}
 {"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west escape. arc left open. 7 steps. The rope stays for the win."}
 {"n":96,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at the pier. Nobody past the west escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier west escape. Nia keeps the rope for the win. 2 steps, arc on the left lane, open."}
+{"n":98,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west escape. arc left open. 3 steps. The rope stays for the win."}
+{"n":99,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at the pier. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
