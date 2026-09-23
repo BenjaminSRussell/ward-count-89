@@ -485,3 +485,6 @@
 {"n":485,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. arc left open. 5 steps. The awning stays for the win."}
 {"n":486,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at High line. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":487,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west escape. Bess keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":488,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The awning stays for the win."}
+{"n":489,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Ward gate. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":490,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west escape. Matt keeps the drum for the win. 3 steps, arc on the left lane, open."}
