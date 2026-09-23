@@ -72,3 +72,6 @@
 {"n":72,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at the Underpass. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":73,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass north escape. Nia keeps the plywood for the win. 3 steps, arc on the left lane, open."}
 {"n":74,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north escape. arc left open. 4 steps. The plywood stays for the win."}
+{"n":75,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at the Underpass. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":76,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass north escape. Ivo keeps the plywood for the win. 6 steps, arc on the left lane, open."}
+{"n":77,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north escape. arc left open. 7 steps. The plywood stays for the win."}
