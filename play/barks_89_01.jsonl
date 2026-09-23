@@ -144,3 +144,6 @@
 {"n":144,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock east escape. Ivo keeps the plywood for the win. 6 steps, arc on the left lane, open."}
 {"n":145,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east escape. arc left open. 7 steps. The plywood stays for the win."}
 {"n":146,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Drydock. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":147,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock east escape. Bess keeps the plywood for the win. 2 steps, arc on the left lane, open."}
+{"n":148,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. arc left open. 3 steps. The plywood stays for the win."}
+{"n":149,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at High line. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
