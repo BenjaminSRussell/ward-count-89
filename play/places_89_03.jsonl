@@ -956,3 +956,6 @@
 {"n":956,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north escape. arc left open. 4 steps. The rebar stays for the win."}
 {"n":957,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at the pier. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":958,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier north escape. Matt keeps the rebar for the win. 6 steps, arc on the left lane, open."}
+{"n":959,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north escape. arc left open. 7 steps. The rebar stays for the win."}
+{"n":960,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at the pier. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":961,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier north escape. Nia keeps the rebar for the win. 2 steps, arc on the left lane, open."}
