@@ -51,3 +51,6 @@
 {"n":51,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east escape. arc left open. 3 steps. The rope stays for the win."}
 {"n":52,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at Mall court. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":53,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court east escape. Nia keeps the rope for the win. 5 steps, arc on the left lane, open."}
+{"n":54,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east escape. arc left open. 6 steps. The rope stays for the win."}
+{"n":55,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Mall court. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":56,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court east escape. Ivo keeps the rope for the win. 8 steps, arc on the left lane, open."}
