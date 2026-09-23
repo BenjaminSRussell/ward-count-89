@@ -495,3 +495,6 @@
 {"n":495,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Drydock. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":496,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the barrel for the win. 6 steps, arc on the left lane, open."}
 {"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north escape. arc left open. 7 steps. The barrel stays for the win."}
+{"n":498,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Drydock. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":499,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north escape. Bess keeps the barrel for the win. 2 steps, arc on the left lane, open."}
+{"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north escape. arc left open. 3 steps. The barrel stays for the win."}
