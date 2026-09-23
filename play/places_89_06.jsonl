@@ -5,3 +5,6 @@
 {"n":5,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south escape. arc left open. 2 steps. The rebar stays for the win."}
 {"n":6,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Switchyard. Nobody past the south escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":7,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south escape. Bess keeps the rebar for the win. 4 steps, arc on the left lane, open."}
+{"n":8,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The rebar stays for the win."}
+{"n":9,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at Drydock. Nobody past the south escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":10,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south escape. Matt keeps the rebar for the win. 7 steps, arc on the left lane, open."}
