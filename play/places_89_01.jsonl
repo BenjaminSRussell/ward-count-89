@@ -955,3 +955,6 @@
 {"n":955,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east escape. arc left open. 5 steps. The rebar stays for the win."}
 {"n":956,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at Clinic roof. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":957,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof east escape. Nia keeps the rebar for the win. 7 steps, arc on the left lane, open."}
+{"n":958,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east escape. arc left open. 8 steps. The rebar stays for the win."}
+{"n":959,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Clinic roof. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":960,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof east escape. Ivo keeps the rebar for the win. 3 steps, arc on the left lane, open."}
