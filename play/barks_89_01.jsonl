@@ -585,3 +585,6 @@
 {"n":585,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light east escape. Nia keeps the crate for the win. 6 steps, arc on the left lane, open."}
 {"n":586,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. arc left open. 7 steps. The crate stays for the win."}
 {"n":587,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Last Light. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":588,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the crate for the win. 2 steps, arc on the left lane, open."}
+{"n":589,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The crate stays for the win."}
+{"n":590,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Last Light. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
