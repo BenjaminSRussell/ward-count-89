@@ -520,3 +520,6 @@
 {"n":520,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate north escape. Ivo keeps the crate for the win. 2 steps, arc on the left lane, open."}
 {"n":521,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north escape. arc left open. 3 steps. The crate stays for the win."}
 {"n":522,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Ward gate. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":523,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate north escape. Bess keeps the crate for the win. 5 steps, arc on the left lane, open."}
+{"n":524,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. arc left open. 6 steps. The crate stays for the win."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Kessler alley. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
