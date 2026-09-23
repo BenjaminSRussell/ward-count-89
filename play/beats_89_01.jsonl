@@ -614,3 +614,6 @@
 {"n":614,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at the pier. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":615,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier east escape. Bess keeps the crate for the win. 8 steps, arc on the left lane, open."}
 {"n":616,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east escape. arc left open. 2 steps. The crate stays for the win."}
+{"n":617,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Clinic roof. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":618,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof east escape. Matt keeps the crate for the win. 4 steps, arc on the left lane, open."}
+{"n":619,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east escape. arc left open. 5 steps. The crate stays for the win."}
