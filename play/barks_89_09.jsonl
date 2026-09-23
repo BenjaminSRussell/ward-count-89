@@ -766,3 +766,6 @@
 {"n":766,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence east curb. Matt keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":767,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east curb. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":768,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the east curb. We hit in 6 steps. Arc on the left lane, open."}
+{"n":769,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east curb. Nia keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":770,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east curb. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":771,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Stockyard fence. Nobody past the east curb. We hit in 2 steps. Arc on the left lane, open."}
