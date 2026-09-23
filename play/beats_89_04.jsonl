@@ -314,3 +314,6 @@
 {"n":314,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Clinic roof. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":315,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the shutter for the win. 6 steps, arc on the left lane, open."}
 {"n":316,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north escape. arc left open. 7 steps. The shutter stays for the win."}
+{"n":317,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at Switchyard. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":318,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard north escape. Matt keeps the shutter for the win. 2 steps, arc on the left lane, open."}
+{"n":319,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north escape. arc left open. 3 steps. The shutter stays for the win."}
