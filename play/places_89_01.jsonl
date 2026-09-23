@@ -292,3 +292,6 @@
 {"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east escape. arc left open. 7 steps. The hydrant stays for the win."}
 {"n":293,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Switchyard. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":294,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east escape. Matt keeps the hydrant for the win. 2 steps, arc on the left lane, open."}
+{"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east escape. arc left open. 3 steps. The hydrant stays for the win."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Switchyard. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":297,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east escape. Nia keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
