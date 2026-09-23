@@ -622,3 +622,6 @@
 {"n":622,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard west escape. Matt keeps the drum for the win. 2 steps, arc on the left lane, open."}
 {"n":623,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west escape. arc left open. 3 steps. The drum stays for the win."}
 {"n":624,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at Switchyard. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":625,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west escape. Nia keeps the drum for the win. 5 steps, arc on the left lane, open."}
+{"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. arc left open. 6 steps. The drum stays for the win."}
+{"n":627,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Switchyard. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
