@@ -774,3 +774,6 @@
 {"n":774,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier east escape. Matt keeps the lamp for the win. 6 steps, arc on the left lane, open."}
 {"n":775,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east escape. arc left open. 7 steps. The lamp stays for the win."}
 {"n":776,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the lamp at the pier. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":777,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier east escape. Nia keeps the lamp for the win. 2 steps, arc on the left lane, open."}
+{"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east escape. arc left open. 3 steps. The lamp stays for the win."}
+{"n":779,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at the pier. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
