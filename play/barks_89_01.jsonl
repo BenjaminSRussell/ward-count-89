@@ -744,3 +744,6 @@
 {"n":744,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the lamp for the win. 4 steps, arc on the left lane, open."}
 {"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. arc left open. 5 steps. The lamp stays for the win."}
 {"n":746,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Mast yard. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":747,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east escape. Bess keeps the lamp for the win. 7 steps, arc on the left lane, open."}
+{"n":748,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. arc left open. 8 steps. The lamp stays for the win."}
+{"n":749,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Last Light. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
