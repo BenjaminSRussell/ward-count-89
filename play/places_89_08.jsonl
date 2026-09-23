@@ -126,3 +126,6 @@
 {"n":126,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west curb. arc left open. 2 steps. The rope stays for the hit."}
 {"n":127,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Mast yard. Nobody past the west curb. We hit in 3 steps. Arc on the left lane, open."}
 {"n":128,"kind":"place","name":"Mast yard west curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard west curb. Ivo keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":129,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west curb. arc left open. 5 steps. The rope stays for the hit."}
+{"n":130,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mast yard. Nobody past the west curb. We hit in 6 steps. Arc on the left lane, open."}
+{"n":131,"kind":"place","name":"Mast yard west curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard west curb. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
