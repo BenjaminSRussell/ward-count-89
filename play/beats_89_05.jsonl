@@ -139,3 +139,6 @@
 {"n":139,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at the pier. Nobody past the south escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":140,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south escape. Ivo keeps the plywood for the win. 5 steps, arc on the left lane, open."}
 {"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. arc left open. 6 steps. The plywood stays for the win."}
+{"n":142,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at the pier. Nobody past the south escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":143,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south escape. Bess keeps the plywood for the win. 8 steps, arc on the left lane, open."}
+{"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. arc left open. 2 steps. The plywood stays for the win."}
