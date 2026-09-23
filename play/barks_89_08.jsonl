@@ -971,3 +971,6 @@
 {"n":971,"kind":"place","name":"Mast yard west curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard west curb. Bess keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":972,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west curb. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":973,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Last Light. Nobody past the west curb. We hit in 2 steps. Arc on the left lane, open."}
+{"n":974,"kind":"place","name":"Last Light west curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light west curb. Matt keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":975,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west curb. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":976,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Last Light. Nobody past the west curb. We hit in 5 steps. Arc on the left lane, open."}
