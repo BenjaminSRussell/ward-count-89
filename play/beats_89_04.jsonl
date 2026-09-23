@@ -116,3 +116,6 @@
 {"n":116,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at South stair. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":117,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair north escape. Nia keeps the rope for the win. 4 steps, arc on the left lane, open."}
 {"n":118,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north escape. arc left open. 5 steps. The rope stays for the win."}
+{"n":119,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at South stair. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":120,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair north escape. Ivo keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":121,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north escape. arc left open. 8 steps. The rope stays for the win."}
