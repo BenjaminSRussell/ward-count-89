@@ -789,3 +789,6 @@
 {"n":789,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at Switchyard. Nobody past the west escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":790,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard west escape. Matt keeps the badge door for the win. 2 steps, arc on the left lane, open."}
 {"n":791,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west escape. arc left open. 3 steps. The badge door stays for the win."}
+{"n":792,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at Switchyard. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":793,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west escape. Nia keeps the badge door for the win. 5 steps, arc on the left lane, open."}
+{"n":794,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. arc left open. 6 steps. The badge door stays for the win."}
