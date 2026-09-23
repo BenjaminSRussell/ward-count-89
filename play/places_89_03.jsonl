@@ -248,3 +248,6 @@
 {"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north escape. arc left open. 3 steps. The hydrant stays for the win."}
 {"n":249,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Mast yard. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":250,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard north escape. Matt keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
+{"n":251,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north escape. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":252,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Mast yard. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":253,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard north escape. Nia keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
