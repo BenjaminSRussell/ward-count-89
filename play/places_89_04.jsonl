@@ -571,3 +571,6 @@
 {"n":571,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north escape. arc left open. 3 steps. The drum stays for the win."}
 {"n":572,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at Mall court. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":573,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court north escape. Nia keeps the drum for the win. 5 steps, arc on the left lane, open."}
+{"n":574,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north escape. arc left open. 6 steps. The drum stays for the win."}
+{"n":575,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Mall court. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":576,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court north escape. Ivo keeps the drum for the win. 8 steps, arc on the left lane, open."}
