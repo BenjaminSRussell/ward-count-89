@@ -388,3 +388,6 @@
 {"n":388,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at the Lot. Nobody past the south escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":389,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south escape. Nia keeps the barrel for the win. 2 steps, arc on the left lane, open."}
 {"n":390,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south escape. arc left open. 3 steps. The barrel stays for the win."}
+{"n":391,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at the Lot. Nobody past the south escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":392,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the barrel for the win. 5 steps, arc on the left lane, open."}
+{"n":393,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south escape. arc left open. 6 steps. The barrel stays for the win."}
