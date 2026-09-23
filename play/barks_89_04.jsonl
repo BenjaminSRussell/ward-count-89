@@ -789,3 +789,6 @@
 {"n":789,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair north escape. Nia keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":790,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north escape. arc left open. 5 steps. The badge door stays for the win."}
 {"n":791,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at South stair. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":792,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north escape. Ivo keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":793,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north escape. arc left open. 8 steps. The badge door stays for the win."}
+{"n":794,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at South stair. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
