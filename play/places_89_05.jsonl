@@ -15,3 +15,6 @@
 {"n":15,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north escape. arc left open. 6 steps. The radio coil stays for the win."}
 {"n":16,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at High line. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":17,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line north escape. Nia keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. arc left open. 2 steps. The radio coil stays for the win."}
+{"n":19,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at High line. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":20,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line north escape. Ivo keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
