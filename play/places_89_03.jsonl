@@ -176,3 +176,6 @@
 {"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. arc left open. 8 steps. The plywood stays for the win."}
 {"n":177,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":178,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate north escape. Matt keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
+{"n":179,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. arc left open. 4 steps. The hydrant stays for the win."}
+{"n":180,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Ward gate. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":181,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate north escape. Nia keeps the hydrant for the win. 6 steps, arc on the left lane, open."}
