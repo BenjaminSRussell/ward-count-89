@@ -461,3 +461,6 @@
 {"n":461,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Last Light. Nobody past the west curb. We hit in 2 steps. Arc on the left lane, open."}
 {"n":462,"kind":"place","name":"Last Light west curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west curb. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
 {"n":463,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west curb. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":464,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Last Light. Nobody past the west curb. We hit in 5 steps. Arc on the left lane, open."}
+{"n":465,"kind":"place","name":"Last Light west curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light west curb. Nia keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
+{"n":466,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west curb. arc left open. 7 steps. The barrel stays for the hit."}
