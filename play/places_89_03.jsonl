@@ -302,3 +302,6 @@
 {"n":302,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north escape. arc left open. 8 steps. The hydrant stays for the win."}
 {"n":303,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Clinic roof. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":304,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
+{"n":305,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The hydrant stays for the win."}
+{"n":306,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":307,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the hydrant for the win. 6 steps, arc on the left lane, open."}
