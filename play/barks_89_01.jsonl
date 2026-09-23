@@ -432,3 +432,6 @@
 {"n":432,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair east escape. Ivo keeps the barrel for the win. 7 steps, arc on the left lane, open."}
 {"n":433,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The barrel stays for the win."}
 {"n":434,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at South stair. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":435,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east escape. Bess keeps the barrel for the win. 3 steps, arc on the left lane, open."}
+{"n":436,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. arc left open. 4 steps. The barrel stays for the win."}
+{"n":437,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at the pier. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
