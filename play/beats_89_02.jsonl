@@ -445,3 +445,6 @@
 {"n":445,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at the pier. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
 {"n":446,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier east escape. Matt keeps the awning for the win. 6 steps, arc on the left lane, open."}
 {"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east escape. arc left open. 7 steps. The awning stays for the win."}
+{"n":448,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the awning at the pier. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":449,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier east escape. Nia keeps the awning for the win. 2 steps, arc on the left lane, open."}
+{"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east escape. arc left open. 3 steps. The awning stays for the win."}
