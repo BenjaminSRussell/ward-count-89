@@ -359,3 +359,6 @@
 {"n":359,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west escape. arc left open. 5 steps. The awning stays for the win."}
 {"n":360,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the awning at Stockyard fence. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":361,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence west escape. Nia keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":362,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west escape. arc left open. 8 steps. The awning stays for the win."}
+{"n":363,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Stockyard fence. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":364,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence west escape. Ivo keeps the awning for the win. 3 steps, arc on the left lane, open."}
