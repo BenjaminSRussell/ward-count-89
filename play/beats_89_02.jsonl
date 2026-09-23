@@ -322,3 +322,6 @@
 {"n":322,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Drydock. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":323,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock east escape. Bess keeps the shutter for the win. 2 steps, arc on the left lane, open."}
 {"n":324,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. arc left open. 3 steps. The shutter stays for the win."}
+{"n":325,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at High line. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":326,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line east escape. Matt keeps the shutter for the win. 5 steps, arc on the left lane, open."}
+{"n":327,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east escape. arc left open. 6 steps. The shutter stays for the win."}
