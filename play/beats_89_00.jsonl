@@ -990,3 +990,6 @@
 {"n":990,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at High line. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":991,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west escape. Bess keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":992,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":993,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Ward gate. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":994,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east escape. Matt keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east escape. arc left open. 4 steps. The plywood stays for the win."}
