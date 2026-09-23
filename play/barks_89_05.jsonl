@@ -128,3 +128,6 @@
 {"n":128,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south escape. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":129,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south escape. arc left open. 8 steps. The plywood stays for the win."}
 {"n":130,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at South stair. Nobody past the south escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":131,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair south escape. Bess keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. arc left open. 4 steps. The plywood stays for the win."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at the pier. Nobody past the south escape. We win in 5 steps. Arc on the left lane, open."}
