@@ -409,3 +409,6 @@
 {"n":409,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north escape. arc left open. 2 steps. The awning stays for the win."}
 {"n":410,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Mall court. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
 {"n":411,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court north escape. Bess keeps the awning for the win. 4 steps, arc on the left lane, open."}
+{"n":412,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north escape. arc left open. 5 steps. The awning stays for the win."}
+{"n":413,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at the Underpass. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":414,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north escape. Matt keeps the awning for the win. 7 steps, arc on the left lane, open."}
