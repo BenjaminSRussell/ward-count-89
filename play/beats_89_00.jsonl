@@ -264,3 +264,6 @@
 {"n":264,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at the pier. Nobody past the west escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":265,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier west escape. Nia keeps the shutter for the win. 2 steps, arc on the left lane, open."}
 {"n":266,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west escape. arc left open. 3 steps. The shutter stays for the win."}
+{"n":267,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at the pier. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":268,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier west escape. Ivo keeps the shutter for the win. 5 steps, arc on the left lane, open."}
+{"n":269,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west escape. arc left open. 6 steps. The shutter stays for the win."}
