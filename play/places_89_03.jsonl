@@ -551,3 +551,6 @@
 {"n":551,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north escape. arc left open. 5 steps. The crate stays for the win."}
 {"n":552,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Stockyard fence. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":553,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the crate for the win. 7 steps, arc on the left lane, open."}
+{"n":554,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The crate stays for the win."}
+{"n":555,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Stockyard fence. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":556,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the crate for the win. 3 steps, arc on the left lane, open."}
