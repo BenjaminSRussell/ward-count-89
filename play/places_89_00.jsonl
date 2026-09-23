@@ -815,3 +815,6 @@
 {"n":815,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The badge door stays for the win."}
 {"n":816,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at High line. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":817,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line west escape. Nia keeps the badge door for the win. 8 steps, arc on the left lane, open."}
+{"n":818,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. arc left open. 2 steps. The badge door stays for the win."}
+{"n":819,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at High line. Nobody past the west escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":820,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line west escape. Ivo keeps the badge door for the win. 4 steps, arc on the left lane, open."}
