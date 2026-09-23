@@ -161,3 +161,6 @@
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west escape. arc left open. 3 steps. The shutter stays for the win."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Ward gate. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
 {"n":163,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate west escape. Bess keeps the shutter for the win. 5 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. arc left open. 6 steps. The shutter stays for the win."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at Kessler alley. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":166,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley west escape. Matt keeps the shutter for the win. 8 steps, arc on the left lane, open."}
