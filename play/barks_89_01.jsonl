@@ -174,3 +174,6 @@
 {"n":174,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east escape. Matt keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
 {"n":175,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east escape. arc left open. 2 steps. The hydrant stays for the win."}
 {"n":176,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Kessler alley. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":177,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east escape. Nia keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
+{"n":178,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east escape. arc left open. 5 steps. The hydrant stays for the win."}
+{"n":179,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Kessler alley. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
