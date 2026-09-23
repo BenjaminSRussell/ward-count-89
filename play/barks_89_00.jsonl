@@ -844,3 +844,6 @@
 {"n":844,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":845,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west escape. arc left open. 8 steps. The radio coil stays for the win."}
 {"n":846,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":847,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
+{"n":848,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. arc left open. 4 steps. The radio coil stays for the win."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at the Lot. Nobody past the west escape. We win in 5 steps. Arc on the left lane, open."}
