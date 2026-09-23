@@ -89,3 +89,6 @@
 {"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east curb. arc left open. 6 steps. The plywood stays for the hit."}
 {"n":90,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the Lot. Nobody past the east curb. We hit in 7 steps. Arc on the left lane, open."}
 {"n":91,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot east curb. Bess keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
+{"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east curb. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":93,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the east curb. We hit in 3 steps. Arc on the left lane, open."}
+{"n":94,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east curb. Matt keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
