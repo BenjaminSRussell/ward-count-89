@@ -851,3 +851,6 @@
 {"n":851,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate east escape. Bess keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
 {"n":852,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east escape. arc left open. 6 steps. The radio coil stays for the win."}
 {"n":853,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the east escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":854,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east escape. Matt keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
+{"n":855,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east escape. arc left open. 2 steps. The radio coil stays for the win."}
+{"n":856,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the east escape. We win in 3 steps. Arc on the left lane, open."}
