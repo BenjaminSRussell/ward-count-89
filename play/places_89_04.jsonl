@@ -142,3 +142,6 @@
 {"n":142,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north escape. arc left open. 8 steps. The rope stays for the win."}
 {"n":143,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Clinic roof. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
 {"n":144,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the rope for the win. 3 steps, arc on the left lane, open."}
+{"n":145,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The rope stays for the win."}
+{"n":146,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Clinic roof. Nobody past the north escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":147,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north escape. Bess keeps the rope for the win. 6 steps, arc on the left lane, open."}
