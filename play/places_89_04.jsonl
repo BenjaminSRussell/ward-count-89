@@ -106,3 +106,6 @@
 {"n":106,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north escape. arc left open. 7 steps. The rope stays for the win."}
 {"n":107,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Last Light. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
 {"n":108,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light north escape. Ivo keeps the rope for the win. 2 steps, arc on the left lane, open."}
+{"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north escape. arc left open. 3 steps. The rope stays for the win."}
+{"n":110,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Last Light. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":111,"kind":"place","name":"Last Light north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light north escape. Bess keeps the rope for the win. 5 steps, arc on the left lane, open."}
