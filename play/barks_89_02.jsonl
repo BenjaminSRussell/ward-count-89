@@ -845,3 +845,6 @@
 {"n":845,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate east escape. Nia keeps the radio coil for the win. 6 steps, arc on the left lane, open."}
 {"n":846,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east escape. arc left open. 7 steps. The radio coil stays for the win."}
 {"n":847,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Ward gate. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":848,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate east escape. Ivo keeps the radio coil for the win. 2 steps, arc on the left lane, open."}
+{"n":849,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east escape. arc left open. 3 steps. The radio coil stays for the win."}
+{"n":850,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Ward gate. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
