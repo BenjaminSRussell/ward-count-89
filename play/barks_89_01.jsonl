@@ -663,3 +663,6 @@
 {"n":663,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east escape. Bess keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":664,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east escape. arc left open. 8 steps. The crate stays for the win."}
 {"n":665,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Ward gate. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":666,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east escape. Matt keeps the lamp for the win. 3 steps, arc on the left lane, open."}
+{"n":667,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east escape. arc left open. 4 steps. The lamp stays for the win."}
+{"n":668,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the lamp at Ward gate. Nobody past the east escape. We win in 5 steps. Arc on the left lane, open."}
