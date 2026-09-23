@@ -358,3 +358,6 @@
 {"n":358,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the barrel for the win. 8 steps, arc on the left lane, open."}
 {"n":359,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. arc left open. 2 steps. The barrel stays for the win."}
 {"n":360,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at Kessler alley. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":361,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the barrel for the win. 4 steps, arc on the left lane, open."}
+{"n":362,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north escape. arc left open. 5 steps. The barrel stays for the win."}
+{"n":363,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Kessler alley. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
