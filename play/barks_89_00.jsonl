@@ -946,3 +946,6 @@
 {"n":946,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof west escape. Matt keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
 {"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west escape. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":948,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Clinic roof. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":949,"kind":"place","name":"Clinic roof west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof west escape. Nia keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":950,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west escape. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":951,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Clinic roof. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
