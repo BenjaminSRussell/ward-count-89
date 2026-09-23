@@ -36,3 +36,6 @@
 {"n":36,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line south escape. Ivo keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
 {"n":37,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":38,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at High line. Nobody past the south escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":39,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south escape. Bess keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":40,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":41,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Ward gate. Nobody past the west curb. We hit in 2 steps. Arc on the left lane, open."}
