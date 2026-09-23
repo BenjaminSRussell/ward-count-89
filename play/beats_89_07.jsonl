@@ -179,3 +179,6 @@
 {"n":179,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Switchyard. Nobody past the west curb. We hit in 7 steps. Arc on the left lane, open."}
 {"n":180,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west curb. Ivo keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
 {"n":181,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west curb. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":182,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Switchyard. Nobody past the west curb. We hit in 3 steps. Arc on the left lane, open."}
+{"n":183,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west curb. Bess keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
+{"n":184,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west curb. arc left open. 5 steps. The plywood stays for the hit."}
