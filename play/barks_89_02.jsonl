@@ -689,3 +689,6 @@
 {"n":689,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley east escape. Nia keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east escape. arc left open. 5 steps. The badge door stays for the win."}
 {"n":691,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Kessler alley. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":692,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":693,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east escape. arc left open. 8 steps. The badge door stays for the win."}
+{"n":694,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Kessler alley. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
