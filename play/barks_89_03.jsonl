@@ -466,3 +466,6 @@
 {"n":466,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof north escape. Matt keeps the barrel for the win. 4 steps, arc on the left lane, open."}
 {"n":467,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north escape. arc left open. 5 steps. The barrel stays for the win."}
 {"n":468,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at Clinic roof. Nobody past the north escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":469,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof north escape. Nia keeps the barrel for the win. 7 steps, arc on the left lane, open."}
+{"n":470,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north escape. arc left open. 8 steps. The barrel stays for the win."}
+{"n":471,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Clinic roof. Nobody past the north escape. We win in 2 steps. Arc on the left lane, open."}
