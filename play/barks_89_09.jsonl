@@ -25,3 +25,6 @@
 {"n":25,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west curb. Nia keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
 {"n":26,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west curb. arc left open. 6 steps. The radio coil stays for the hit."}
 {"n":27,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Switchyard. Nobody past the west curb. We hit in 7 steps. Arc on the left lane, open."}
+{"n":28,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west curb. Ivo keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":29,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west curb. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Switchyard. Nobody past the west curb. We hit in 3 steps. Arc on the left lane, open."}
