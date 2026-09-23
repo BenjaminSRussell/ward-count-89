@@ -39,3 +39,6 @@
 {"n":39,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south escape. Bess keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":40,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. arc left open. 8 steps. The radio coil stays for the win."}
 {"n":41,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Ward gate. Nobody past the west curb. We hit in 2 steps. Arc on the left lane, open."}
+{"n":42,"kind":"place","name":"Ward gate west curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west curb. Matt keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":43,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west curb. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":44,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Ward gate. Nobody past the west curb. We hit in 5 steps. Arc on the left lane, open."}
