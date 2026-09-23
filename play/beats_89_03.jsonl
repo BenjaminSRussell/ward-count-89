@@ -126,3 +126,6 @@
 {"n":126,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at the pier. Nobody past the north escape. We win in 7 steps. Arc on the left lane, open."}
 {"n":127,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north escape. Bess keeps the plywood for the win. 8 steps, arc on the left lane, open."}
 {"n":128,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. arc left open. 2 steps. The plywood stays for the win."}
+{"n":129,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Clinic roof. Nobody past the north escape. We win in 3 steps. Arc on the left lane, open."}
+{"n":130,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof north escape. Matt keeps the plywood for the win. 4 steps, arc on the left lane, open."}
+{"n":131,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north escape. arc left open. 5 steps. The plywood stays for the win."}
