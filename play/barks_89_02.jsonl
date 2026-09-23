@@ -782,3 +782,6 @@
 {"n":782,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier east escape. Matt keeps the badge door for the win. 6 steps, arc on the left lane, open."}
 {"n":783,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east escape. arc left open. 7 steps. The badge door stays for the win."}
 {"n":784,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at the pier. Nobody past the east escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":785,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier east escape. Nia keeps the badge door for the win. 2 steps, arc on the left lane, open."}
+{"n":786,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east escape. arc left open. 3 steps. The badge door stays for the win."}
+{"n":787,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the pier. Nobody past the east escape. We win in 4 steps. Arc on the left lane, open."}
