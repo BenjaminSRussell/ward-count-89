@@ -499,3 +499,6 @@
 {"n":499,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west escape. Bess keeps the drum for the win. 5 steps, arc on the left lane, open."}
 {"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. arc left open. 6 steps. The drum stays for the win."}
 {"n":501,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Kessler alley. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
+{"n":502,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west escape. Matt keeps the drum for the win. 8 steps, arc on the left lane, open."}
+{"n":503,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west escape. arc left open. 2 steps. The drum stays for the win."}
+{"n":504,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at Kessler alley. Nobody past the west escape. We win in 3 steps. Arc on the left lane, open."}
