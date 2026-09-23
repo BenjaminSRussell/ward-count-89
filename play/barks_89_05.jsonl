@@ -572,3 +572,6 @@
 {"n":572,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south escape. Ivo keeps the crate for the win. 3 steps, arc on the left lane, open."}
 {"n":573,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south escape. arc left open. 4 steps. The crate stays for the win."}
 {"n":574,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Stockyard fence. Nobody past the south escape. We win in 5 steps. Arc on the left lane, open."}
+{"n":575,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence south escape. Bess keeps the crate for the win. 6 steps, arc on the left lane, open."}
+{"n":576,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south escape. arc left open. 7 steps. The crate stays for the win."}
+{"n":577,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Mall court. Nobody past the south escape. We win in 8 steps. Arc on the left lane, open."}
