@@ -685,3 +685,6 @@
 {"n":685,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate north escape. Nia keeps the lamp for the win. 6 steps, arc on the left lane, open."}
 {"n":686,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north escape. arc left open. 7 steps. The lamp stays for the win."}
 {"n":687,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Ward gate. Nobody past the north escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":688,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate north escape. Ivo keeps the lamp for the win. 2 steps, arc on the left lane, open."}
+{"n":689,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north escape. arc left open. 3 steps. The lamp stays for the win."}
+{"n":690,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Ward gate. Nobody past the north escape. We win in 4 steps. Arc on the left lane, open."}
