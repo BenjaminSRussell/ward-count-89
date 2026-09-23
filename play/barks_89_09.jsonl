@@ -514,3 +514,6 @@
 {"n":514,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof east curb. Matt keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":515,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east curb. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":516,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Clinic roof. Nobody past the east curb. We hit in 6 steps. Arc on the left lane, open."}
+{"n":517,"kind":"place","name":"Clinic roof east curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof east curb. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":518,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east curb. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":519,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Clinic roof. Nobody past the east curb. We hit in 2 steps. Arc on the left lane, open."}
