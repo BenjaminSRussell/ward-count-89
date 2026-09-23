@@ -227,3 +227,6 @@
 {"n":227,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court east escape. Bess keeps the shutter for the win. 4 steps, arc on the left lane, open."}
 {"n":228,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east escape. arc left open. 5 steps. The shutter stays for the win."}
 {"n":229,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at the Underpass. Nobody past the east escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":230,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass east escape. Matt keeps the shutter for the win. 7 steps, arc on the left lane, open."}
+{"n":231,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east escape. arc left open. 8 steps. The shutter stays for the win."}
+{"n":232,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at the Underpass. Nobody past the east escape. We win in 2 steps. Arc on the left lane, open."}
