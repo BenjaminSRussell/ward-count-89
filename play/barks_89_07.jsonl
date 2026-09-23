@@ -510,3 +510,6 @@
 {"n":510,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard west curb. Matt keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
 {"n":511,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west curb. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":512,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Switchyard. Nobody past the west curb. We hit in 4 steps. Arc on the left lane, open."}
+{"n":513,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west curb. Nia keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":514,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west curb. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":515,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Switchyard. Nobody past the west curb. We hit in 7 steps. Arc on the left lane, open."}
